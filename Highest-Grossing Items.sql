@@ -5,10 +5,10 @@ product_spend Example Input:
 category	 product	           user_id	spend	       transaction_date
 appliance	 refrigerator	        165   	246.00	     12/26/2021 12:00:00
 appliance 	refrigerator	      123	    299.99	     03/02/2022 12:00:00
-appliance	  washing machine	      123	    219.80	     03/02/2022 12:00:00
-electronics	vacuum	            178	     152.00     	04/05/2022 12:00:00
-electronics	wireless headset	  156	     249.90	      07/08/2022 12:00:00
-electronics	vacuum	            145	     189.00	      07/15/2022 12:00:00
+appliance	  washing machine	    123	  219.80	     03/02/2022 12:00:00
+electronics	vacuum	            178	    152.00     	04/05/2022 12:00:00
+electronics	wireless headset	  156	    249.90	      07/08/2022 12:00:00
+electronics	vacuum	            145	    189.00	      07/15/2022 12:00:00
 
 Example Output:
 category      product	        total_spend
