@@ -3,6 +3,8 @@ Write a query to identify the manufacturers associated with the drugs that resul
 Output the manufacturer's name, the number of drugs associated with losses, and the total losses in absolute value. Display the results sorted in descending order
  with the highest losses displayed at the top.
 
+ question=https://datalemur.com/questions/non-profitable-drugs
+
 
 pharmacy_sales Example Input:
 product_id	       units_sold	     total_sales	  cogs	        manufacturer	drug
